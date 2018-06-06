@@ -1,0 +1,2 @@
+This folder consists of raw data as well as cleaned traini and test datasets.
+The raw data is fed to Python Jupyter notebook. The cleaned csv files currently are utilized by Microsoft Azure Machine Learning platform.
